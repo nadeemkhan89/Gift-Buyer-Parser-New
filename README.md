@@ -169,3 +169,13 @@
 ⭐ Star this repository if you find it exceptional!
 
 </div>
+
+keywords:
+  - "telegram nft gifts"
+  - "auto gift buyer nft"
+  - "nft gift parser"
+  - "telegram premium nft"
+  - "nft automation"
+  - "precompiled nft tool"
+  - "telegram collectibles"
+  - "nft gift management"

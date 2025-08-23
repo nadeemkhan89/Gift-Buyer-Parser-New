@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.iconify.design/mdi:nft.svg?width=100&height=100" alt="NFT Gift Icon">
+  <img src="https://api.iconify.design/mdi:gift.svg?width=100&height=100" alt="Gift Parser Icon">
 </p>
 
 <h1 align="center">🖼️ Auto Gift Buyer NFT</h1>
